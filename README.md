@@ -26,7 +26,7 @@ To guide my project I have decided to answer the following questions.
 6. Food Regions [https://www.bls.gov/cpi/regional-resources.htm](https://www.bls.gov/cpi/regional-resources.htm)
 
 # Viewing Files
-**The best way to interact with this project is by downloading the entire repository and opening files on your own computer. There are 3 parts of this project: data collection and wrangling, statistic calculation, and visualization and analysis. If you care to just see the visualization and analysis, there is a PDF of a Power BI printout.**
+**The best way to interact with this project is by downloading the entire repository and opening files on your own computer. Doing so will allow you to interact with the visualizations. There are 3 parts of this project: data collection and wrangling, statistic calculation, and visualization and analysis. If you care to just see the visualization and analysis but not have the ability to interact with it, there is a PDF of a Power BI printout.**
 
 ## Python Files
 There are 3 Jupyter Notebooks. One is where I did all of the data wrangling, another for calculating all of the necessary statistics to answer the above questions, and the last one is to create visualizations of the statistics and answer the above questions.
