@@ -25,16 +25,19 @@ To guide my project I have decided to answer the following questions.
 5. US National Food Prices [Consumer Price Index for All Urban Consumers: Food in U.S. City Average](https://fred.stlouisfed.org/series/CPIUFDNS)
 6. Food Regions [https://www.bls.gov/cpi/regional-resources.htm](https://www.bls.gov/cpi/regional-resources.htm)
 
-# Python Files
+# Viewing Files
+**The best way to interact with this project is by downloading the entire repository and opening files on your own computer. There are 3 parts of this project: data collection and wrangling, statistic calculation, and visualization and analysis. If you care to just see the visualization and analysis, there is a PDF of a Power BI printout.**
+
+## Python Files
 There are 3 Jupyter Notebooks. One is where I did all of the data wrangling, another for calculating all of the necessary statistics to answer the above questions, and the last one is to create visualizations of the statistics and answer the above questions.
 
 To view the output of these notebooks I recommend you clone the repository and run the notebooks on your own computer.
 
-# Power BI
+## Power BI
 There are 2 power BI related files. One is the actual Power BI file and another is a printout of the report generated using Power BI
 
-# Tableau
+## Tableau
 To view the Tableau story either download the tableau file or visit my [tableau profile](https://public.tableau.com/profile/jacob.atnip#!/)
 
-# Archive
+## Archive
 This is where all of the data is located
